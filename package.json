@@ -1,4 +1,15 @@
 {
-    "token": "NjEzNzc2MTI4NTg2NDE2MTU3.XV3Wnw.PlbStqOGpeRCn8TvN1H9uKjXSLE",
-    "prefix": "!"
+  "name": "secretosbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
 }
